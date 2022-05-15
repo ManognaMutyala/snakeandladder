@@ -1,0 +1,12 @@
+All the players will start from 1
+Players will roll die and encounters snake or ladder
+one who reaches 100 wins
+die rolls based out of 6
+if they throw more than 100 then it should not move
+
+Assumptions:
+No snake at 100
+Snakes and ladders do not form infinite loop
+there wont be multiple ladder and snake at same position
+definitely a player can win
+
